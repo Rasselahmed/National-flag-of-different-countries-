@@ -1314,6 +1314,94 @@ h1{
 
 
 
+.barundimm{
+	width: 400px;
+	height: 240px;
+	position: relative;
+	background:fixed;
+	top: -550px;
+
+}
+
+.mainbox12{
+	width: 100%px;
+	height: 210px;
+	border: 1px solid black;
+	position: relative;
+
+}
+
+.triangle{
+	width: 0px;
+	height: 0px;
+	position: absolute;
+	border-right: 195px solid transparent;
+	border-left: 195px solid transparent;
+	border-top: 95px solid  red;
+	left: 5px;
+}
+.triangle2{
+	width: 0px;
+	height: 0px;
+	position: absolute;
+	border-top: 100px solid transparent;
+	border-bottom: 100px solid transparent;
+	border-left: 195px solid green;
+	left: 0px;
+	top: 4px;
+
+}
+.triangle3{
+	width: 0px;
+	height: 0px;
+	position: absolute;
+	border-right: 195px solid transparent;
+	border-left: 195px solid transparent;
+	border-bottom: 95px solid blue;
+	bottom: 0px;
+	left: 5px;
+
+}
+.triangle4{
+	width: 0px;
+	height: 0px;
+	position: absolute;
+	border-top: 100px solid transparent;
+	border-bottom: 100px solid transparent;
+	border-right: 195px solid green;
+	right: 0px;
+	top: 4px;
+
+}
+.round{
+	width: 100px;
+	height: 100px;
+	background: white;
+	border-radius: 50%;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+
+}
+.freshbbb{
+	width: 100%;
+	height: 30px;
+	position: absolute;
+	background: fixed;
+	bottom: 0px;
+
+}
+.freshbbb p{
+	font-size: 25px;
+	color: red;
+	font-family: segoe script;
+	font-weight: bold;
+}
+
+
+
+
 
 
 
